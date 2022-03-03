@@ -30,4 +30,5 @@ This landing page has been made to provide the customers a detailed overview of 
 
 <hr>
 
-![LAKSHMISRAVYA21035](C:/Users/Desktop/task6/LAKSHMISRAVYA21035.png?raw=true "IMAGE OF THE LANDING PAGE")
+![image LAKSHMISRAVYA21035](LAKSHMISRAVYA21035.png)
+
